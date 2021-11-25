@@ -1,1 +1,1 @@
-# CSE475
+# CSE475 Machine Learning
