@@ -15,6 +15,4 @@ https://github.com/jakevdp/PythonDataScienceHandbook
 
 https://github.com/PRAYFRME/Data-Science
 
-https://github.com/PRAYFRME/CSE475
-
 https://github.com/PRAYFRME/CSE303
