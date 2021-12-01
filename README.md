@@ -6,3 +6,15 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+
+
+
+
+## Have a look 👀🤩👀
+https://github.com/jakevdp/PythonDataScienceHandbook
+
+https://github.com/PRAYFRME/Data-Science
+
+https://github.com/PRAYFRME/CSE475
+
+https://github.com/PRAYFRME/CSE303
