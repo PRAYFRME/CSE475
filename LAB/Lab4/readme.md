@@ -18,3 +18,9 @@ f. correlation analysis of the attributes from the data
 g. principal component analysis (optional)
 
 h. linear regression (optional)
+
+
+
+## In Depth: Principal Component Analysis
+
+https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
